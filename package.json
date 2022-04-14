@@ -1,0 +1,16 @@
+{
+  "name": "com.openugd.dependency.injection",
+  "displayName": "Dependency Injection",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "author": "https://github.com/dorofiykolya",
+  "description": "Dependency Injection",
+  "keywords": [
+    "dependency",
+    "injection"
+  ],
+  "dependencies": {},
+  "samples": [
+  ],
+  "category": "Unity"
+}
