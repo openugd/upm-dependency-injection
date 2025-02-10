@@ -1,9 +1,9 @@
 {
   "name": "com.openugd.dependency.injection",
   "displayName": "Dependency Injection",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "unity": "2020.3",
-  "author": "https://github.com/dorofiykolya",
+  "author": "https://github.com/openugd",
   "description": "Dependency Injection",
   "keywords": [
     "dependency",
